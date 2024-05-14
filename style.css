@@ -1,0 +1,77 @@
+*{
+    font-family: poppins;
+}
+.card{
+    border: 1px solid;
+    width: 250px;
+    padding: 20px;
+    border-radius: 5px;
+    transition: 0.15s;
+}
+
+.card:hover{
+    background-color: red;
+}
+img{
+    display: block;
+    width: 150px;
+    height: 200px;
+    border: none;
+    margin: auto auto;
+    align-items: center;
+    border-radius: 15px;
+
+}
+
+.phone {
+    font-size: 25px;
+    font-weight: 25px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: center;
+}
+
+.cost {
+    font-size: 20px;
+    font-weight: 20px;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+p {
+    font-size: 15px;
+    font-weight: 15px;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.star {
+  color: gold;
+  text-align: center;
+  
+}
+
+button {
+    height: 25%;
+    width: 100%;
+    background-color: yellow;
+    border: none;
+    border-radius: 5px;
+    transition: 0.15s;
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px 0;
+    cursor: pointer;
+    
+}
+
+button:hover {
+    background-color: rgb(150, 150, 12);
+    border: .5px solid;
+}
+
+.steve{
+    margin-right: 20px;
+}
